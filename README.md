@@ -1,106 +1,172 @@
-# 🌐 Sanjana Kumari — Personal Portfolio
+# 🌐 Sanjana Kumari — Portfolio
 
-A responsive personal portfolio website created to showcase **Sanjana Kumari's** profile, skills, projects, and contact information.
+<p align="center">
+  <strong>Personal Portfolio Website</strong>
+</p>
 
-The portfolio is designed with a clean and modern layout and focuses on **frontend web development** using HTML, CSS, and JavaScript.
+<p align="center">
+  A clean and responsive portfolio website showcasing my skills, projects, and journey as an Information Technology student.
+</p>
+
+<p align="center">
+  <a href="https://github.com/07sanjanakumari/Portfolio">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
+
+---
+
+## 📖 About The Project
+
+This repository contains the source code for **Sanjana Kumari's personal portfolio website**.
+
+The website is designed to present a simple and professional overview of my background, technical skills, projects, and contact information. It is built using core web technologies without any external frontend framework.
+
+The portfolio focuses on a **clean UI, responsive layout, smooth navigation, and interactive elements**.
+
+---
 
 ## ✨ Features
 
-* 🏠 **Home Section** — Introduction and frontend developer profile
-* 👩‍💻 **About Me** — Personal background and learning interests
-* 🛠️ **Skills Section** — Technologies and programming skills
-* 📂 **Projects Section** — Featured projects and descriptions
-* 📩 **Contact Section** — Email, GitHub, and LinkedIn information
-* 📱 **Responsive Design** — Optimized for desktop and mobile screens
-* 🎨 **Modern UI** — Clean layout with smooth scrolling, hover effects, cards, and a sticky navigation bar
-* ⚡ **Interactive JavaScript** — Navigation effects, welcome message, and resume-button interaction
+* 🏠 **Home** — Introduction and frontend developer profile
+* 👩‍💻 **About Me** — Background, interests, and current learning areas
+* 🛠️ **Skills** — Overview of technical and programming skills
+* 💼 **Projects** — Showcase of selected projects
+* 📬 **Contact** — Contact and social profile information
+* 📱 **Responsive Layout** — Designed to work across different screen sizes
+* 🎨 **Clean & Modern UI** — Simple visual design with cards and hover effects
+* 🧭 **Sticky Navigation** — Easy navigation between portfolio sections
+* ✨ **Smooth Scrolling** — Smooth transitions between sections
+* ⚡ **JavaScript Interactions** — Interactive navigation and page notifications
 
-## 🛠️ Technologies Used
+---
 
-| Technology   | Purpose                                         |
-| ------------ | ----------------------------------------------- |
-| HTML5        | Website structure                               |
-| CSS3         | Styling, layout, responsiveness, and animations |
-| JavaScript   | Interactivity and navigation behavior           |
-| Google Fonts | Poppins typography                              |
-| Git & GitHub | Version control and project hosting             |
+## 🛠️ Tech Stack
 
-## 📁 Project Structure
+| Technology       | Usage                                           |
+| ---------------- | ----------------------------------------------- |
+| **HTML5**        | Structure and content                           |
+| **CSS3**         | Styling, layout, responsiveness, and animations |
+| **JavaScript**   | Interactive functionality                       |
+| **Google Fonts** | Poppins typography                              |
+| **Git**          | Version control                                 |
+| **GitHub**       | Repository hosting                              |
+
+---
+
+## 📂 Project Structure
 
 ```text
 Portfolio/
 │
 ├── index.html      # Main portfolio webpage
-├── style.css       # Styling and responsive design
-├── java.js         # JavaScript interactions
+├── style.css       # Website styling and responsive design
+├── java.js         # JavaScript functionality
 └── README.md       # Project documentation
 ```
 
-## 📌 Projects Included
+---
+
+## 💼 Featured Projects
 
 ### 🍳 Sanjana Dishes
 
-A responsive recipe website built using HTML and CSS.
+A responsive recipe website created using **HTML and CSS**, designed to present recipes in a simple and user-friendly format.
 
-### 💼 Personal Portfolio Website
+### 🌐 Personal Portfolio
 
-A professional portfolio website created as part of the CodeAlpha Internship.
+A professional portfolio website created to showcase personal information, skills, projects, and contact details.
 
 ### 🧮 Calculator
 
-A functional calculator developed using HTML, CSS, and JavaScript.
+A calculator application built using **HTML, CSS, and JavaScript**, demonstrating basic frontend development and JavaScript interaction.
 
-## 🎯 Skills Highlighted
+---
 
-* HTML
-* CSS
-* JavaScript
-* C Programming
-* Python
-* Data Structures & Algorithms
-* Git
-* GitHub
+## 🧠 Skills
+
+The portfolio currently highlights the following skills:
+
+* **HTML**
+* **CSS**
+* **JavaScript**
+* **C Programming**
+* **Python**
+* **Data Structures & Algorithms**
+* **Git**
+* **GitHub**
+
+---
 
 ## 🚀 Getting Started
 
-You don't need any special framework or package installation to run this project.
+Since this is a static website, there is **no package installation or build process required**.
 
-### 1. Clone the repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/07sanjanakumari/Portfolio.git
 ```
 
-### 2. Open the project
+### Navigate to the project
 
 ```bash
 cd Portfolio
 ```
 
-### 3. Run the website
+### Run the website
 
-Open `index.html` in your preferred web browser.
+Simply open:
 
-You can also use **VS Code Live Server** or another local static web server for development.
+```text
+index.html
+```
+
+in your web browser.
+
+For development, you can also use **VS Code Live Server** or any other local static web server.
+
+---
 
 ## 📱 Responsive Design
 
-The website includes responsive CSS rules for smaller screens, adjusting:
+The website includes responsive styling for smaller screens.
 
-* Navigation layout
-* Heading sizes
-* Section spacing
-* Skill cards
-* Project cards
+The layout automatically adapts elements such as:
+
+* Navigation
 * Typography
+* Skills cards
+* Project cards
+* Section spacing
+* Content width
 
-This allows the portfolio to remain usable across desktop, tablet, and mobile devices.
+This allows the portfolio to provide a consistent experience across **desktop, tablet, and mobile devices**.
 
-## 👩‍💻 About
+---
 
-**Sanjana Kumari** is an Information Technology student interested in web development and frontend technologies.
+## 🎨 Design
 
-Her current learning areas include:
+The portfolio uses a minimal and modern visual style featuring:
+
+* Blue primary color palette
+* Poppins font
+* Card-based sections
+* Hover animations
+* Smooth scrolling
+* Sticky navigation
+* Mobile-friendly layouts
+
+---
+
+## 👩‍💻 About Me
+
+Hi! I'm **Sanjana Kumari**, an Information Technology student passionate about **web development and frontend technologies**.
+
+I'm continuously improving my programming and development skills while learning technologies such as:
 
 * Web Development
 * C Programming
@@ -108,11 +174,36 @@ Her current learning areas include:
 * Data Structures & Algorithms
 * Git & GitHub
 
+My goal is to keep learning, build useful projects, and grow as a developer.
+
+---
+
 ## 📬 Contact
 
-* **Email:** [sanjanaakumari7278@gmail.com](mailto:sanjanaakumari7278@gmail.com)
-* **GitHub:** [07sanjanakumari](https://github.com/07sanjanakumari)
-* **LinkedIn:** [Sanjana Kumari](https://www.linkedin.com/in/sanjana-kumari-11411b411/)
+If you'd like to connect or collaborate, you can reach me through:
+
+📧 **Email:** [sanjanaakumari7278@gmail.com](mailto:sanjanaakumari7278@gmail.com)
+
+🐙 **GitHub:** [07sanjanakumari](https://github.com/07sanjanakumari)
+
+💼 **LinkedIn:** [Sanjana Kumari](https://www.linkedin.com/in/sanjana-kumari-11411b411/)
+
+---
+
+## 🔮 Future Improvements
+
+Some improvements that can be added to the portfolio in future:
+
+* [ ] Add a downloadable resume
+* [ ] Add project links and live demos
+* [ ] Add project screenshots
+* [ ] Add a working contact form
+* [ ] Add social media icons
+* [ ] Add dark mode
+* [ ] Improve accessibility
+* [ ] Add more projects and achievements
+
+---
 
 ## 📄 License
 
@@ -120,6 +211,6 @@ This project is a personal portfolio website created by **Sanjana Kumari**.
 
 ---
 
-⭐ If you find this portfolio useful or inspiring, consider giving the repository a star!
-
-**Made with ❤️ by Sanjana Kumari**
+<p align="center">
+  <strong>Made with ❤️ by Sanjana Kumari</strong>
+</p>
